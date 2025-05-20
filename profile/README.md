@@ -4,3 +4,6 @@ open-source C++ library that brings together mathematical tools for
 geometric design and numerical simulation.
 
 Checkout the [Wiki page](https://github.com/gismo/gismo/wiki).
+
+[<img align="left" src="[https://www.inria.fr/themes/custom/inria/logo/logo.svg" title="Inria">]([https://github.com/gismo/gismo/wiki/Gallery](https://www.inria.fr))
+
